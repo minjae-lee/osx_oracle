@@ -3,6 +3,10 @@ osx_oracle
 
 ## 목표
 
+OSX 환경에서 Python으로 oracle에 접근하는 방법을 제공
+
+## 동기
+
 OSX 환경에서 Python으로 oracle에 접근하기 위해서는 몇가지 방법이 존재를 하는데, 각각 다음과 같은 문제들이 발생한다.
 
 * cx_oracle: OSX lion이후 버전서 부터 동작을 하지 않음
